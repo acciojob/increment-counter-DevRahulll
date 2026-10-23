@@ -1,6 +1,6 @@
 //your JS code here. If required.
-let counter=document.getElementById("counter-val");
-let btn=document.getElementById("submit");
+let counter=document.getElementById("counter");
+let btn=document.getElementById("incrementBtn");
 let val=0;
 function increment(){
 	alert(val)
